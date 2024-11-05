@@ -1,0 +1,17 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/vol_last.dir/main.cpp.obj: dyndep
+
+build CMakeFiles/vol_last.dir/Memory.cpp.obj: dyndep
+
+build CMakeFiles/vol_last.dir/Machine.cpp.obj: dyndep
+
+build CMakeFiles/vol_last.dir/ALU.cpp.obj: dyndep
+
+build CMakeFiles/vol_last.dir/CU.cpp.obj: dyndep
+
+build CMakeFiles/vol_last.dir/CPU.cpp.obj: dyndep
+
+build CMakeFiles/vol_last.dir/Register.cpp.obj: dyndep
+
+build CMakeFiles/vol_last.dir/Menu.cpp.obj: dyndep
+

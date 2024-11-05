@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/zosar/CLionProjects/vol_last/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/zosar/CLionProjects/vol_last",
+	"dir-top-bld" : "C:/Users/zosar/CLionProjects/vol_last/cmake-build-debug",
+	"dir-top-src" : "C:/Users/zosar/CLionProjects/vol_last",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/zosar/CLionProjects/vol_last/cmake-build-debug/CMakeFiles/vol_last.dir"
+}
